@@ -1,0 +1,33 @@
+/* Estilo general de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2192896b;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  /* Estilo del encabezado */
+  header {
+    background-color: #333;
+      padding: 50px;
+  }
+  
+  /* Estilo del título */
+  h1,h2 {
+    text-align: center;
+    color: white;
+  }
+  
+  /* Estilo del menú de navegación */
+
+  article {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  /* Estilo de las imágenes de los artículos */
+  article img {
+    width: 100%;
+    height: auto;
+  }
